@@ -1,4 +1,4 @@
-const clientId = "2a5802209d6d498b87bf801754ee8ad5";
+const clientId = "a1b527eafea74d65853f327e3593f10c";
 const redirectUri = "https://gerien66.github.io/React-Jamming-Project/";
 let accessToken;
 
