@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/React-Jamming-Project/static/css/main.d0e7f38a.css",
-    "main.js": "/React-Jamming-Project/static/js/main.190628e8.js",
+    "main.js": "/React-Jamming-Project/static/js/main.f8d06c1d.js",
     "static/js/787.62d5a415.chunk.js": "/React-Jamming-Project/static/js/787.62d5a415.chunk.js",
     "static/media/spotify_background_image.jpg": "/React-Jamming-Project/static/media/spotify_background_image.a0687f3fe6f1303a2d18.jpg",
     "index.html": "/React-Jamming-Project/index.html",
     "main.d0e7f38a.css.map": "/React-Jamming-Project/static/css/main.d0e7f38a.css.map",
-    "main.190628e8.js.map": "/React-Jamming-Project/static/js/main.190628e8.js.map",
+    "main.f8d06c1d.js.map": "/React-Jamming-Project/static/js/main.f8d06c1d.js.map",
     "787.62d5a415.chunk.js.map": "/React-Jamming-Project/static/js/787.62d5a415.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0e7f38a.css",
-    "static/js/main.190628e8.js"
+    "static/js/main.f8d06c1d.js"
   ]
 }
